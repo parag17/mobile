@@ -66,6 +66,7 @@
     <Content Include="jquery-mobile\jquery-1.8.2.min.js" />
     <Content Include="jquery-mobile\jquery.mobile-1.2.0.min.css" />
     <Content Include="jquery-mobile\jquery.mobile-1.2.0.min.js" />
+    <Content Include="jquery-mobile\jquery.tmpl.min.js" />
     <Content Include="js\hello-world.js" />
     <Content Include="styles\main.css" />
     <Content Include="cordova.ios.js">
